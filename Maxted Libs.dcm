@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 10M02SCE144
+D Intel MAX 10 FPGA in EQFP 144 Package
+K FPGA
+$ENDCMP
+#
 #End Doc Library
