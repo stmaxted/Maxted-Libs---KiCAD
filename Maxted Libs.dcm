@@ -5,4 +5,12 @@ D Intel MAX 10 FPGA in EQFP 144 Package
 K FPGA
 $ENDCMP
 #
+$CMP AP7365
+D Diodes Integrated LDO
+$ENDCMP
+#
+$CMP TLV62569
+D Texas Instruments Buck Converter
+$ENDCMP
+#
 #End Doc Library
