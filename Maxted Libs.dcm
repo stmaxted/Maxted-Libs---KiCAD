@@ -9,6 +9,12 @@ $CMP AP7365
 D Diodes Integrated LDO
 $ENDCMP
 #
+$CMP Si1060-A-GM_QFN_36_EP
+D Silicon Labs 8051 with sub GHz Radio
+K SiLabs, 8051, radio,
+F https://www.silabs.com/documents/public/data-sheets/Si106x-8x.pdf
+$ENDCMP
+#
 $CMP TLV62569
 D Texas Instruments Buck Converter
 $ENDCMP
