@@ -9,6 +9,10 @@ $CMP AP7365
 D Diodes Integrated LDO
 $ENDCMP
 #
+$CMP LTC3526L
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3526lfc.pdf
+$ENDCMP
+#
 $CMP Si1060-A-GM_QFN_36_EP
 D Silicon Labs 8051 with sub GHz Radio
 K SiLabs, 8051, radio,
