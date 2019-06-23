@@ -13,6 +13,10 @@ $CMP LTC3526L
 F https://www.analog.com/media/en/technical-documentation/data-sheets/3526lfc.pdf
 $ENDCMP
 #
+$CMP SAME51J18A-AU
+K Microcontroller, SAME51, Atmel
+$ENDCMP
+#
 $CMP Si1060-A-GM_QFN_36_EP
 D Silicon Labs 8051 with sub GHz Radio
 K SiLabs, 8051, radio,
