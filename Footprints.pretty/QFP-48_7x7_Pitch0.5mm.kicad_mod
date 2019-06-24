@@ -1,4 +1,4 @@
-(module QFP-48_7x7_Pitch0.5mm (layer F.Cu) (tedit 5D0F4393)
+(module QFP-48_7x7_Pitch0.5mm (layer F.Cu) (tedit 5D107F6F)
   (attr smd)
   (fp_text reference U (at 0 -6.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -154,4 +154,9 @@
   (pad 46 smd oval (at -1.75 -4.5) (size 0.25 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 47 smd oval (at -2.25 -4.5) (size 0.25 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 48 smd oval (at -2.75 -4.5) (size 0.25 1.5) (layers F.Cu F.Paste F.Mask))
+  (model ${KISYS3DMOD}/Package_QFP.3dshapes/TQFP-48_7x7mm_P0.5mm.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
