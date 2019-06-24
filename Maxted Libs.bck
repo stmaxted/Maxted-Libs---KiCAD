@@ -9,6 +9,16 @@ $CMP AP7365
 D Diodes Integrated LDO
 $ENDCMP
 #
+$CMP CAM-M8
+D UBLOX CAM M8 GPS
+K GPS, UBLOX
+F https://www.u-blox.com/sites/default/files/CAM-M8-FW3_DataSheet_%28UBX-15031574%29.pdf
+$ENDCMP
+#
+$CMP CAM-M8Q
+F https://www.u-blox.com/sites/default/files/CAM-M8-FW3_DataSheet_%28UBX-15031574%29.pdf
+$ENDCMP
+#
 $CMP LTC3526L
 F https://www.analog.com/media/en/technical-documentation/data-sheets/3526lfc.pdf
 $ENDCMP
