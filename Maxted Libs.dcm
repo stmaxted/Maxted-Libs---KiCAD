@@ -33,4 +33,10 @@ $CMP TLV62569
 D Texas Instruments Buck Converter
 $ENDCMP
 #
+$CMP TPS63030
+D Buck-Boost Converter
+K DC/DC, Buck-Boost
+F http://www.ti.com/lit/ds/symlink/tps63031.pdf
+$ENDCMP
+#
 #End Doc Library

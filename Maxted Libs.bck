@@ -15,10 +15,6 @@ K GPS, UBLOX
 F https://www.u-blox.com/sites/default/files/CAM-M8-FW3_DataSheet_%28UBX-15031574%29.pdf
 $ENDCMP
 #
-$CMP CAM-M8Q
-F https://www.u-blox.com/sites/default/files/CAM-M8-FW3_DataSheet_%28UBX-15031574%29.pdf
-$ENDCMP
-#
 $CMP LTC3526L
 F https://www.analog.com/media/en/technical-documentation/data-sheets/3526lfc.pdf
 $ENDCMP
@@ -35,6 +31,12 @@ $ENDCMP
 #
 $CMP TLV62569
 D Texas Instruments Buck Converter
+$ENDCMP
+#
+$CMP TPS63030
+D Buck-Boost Converter
+K DC/DC, Buck-Boost
+F http://www.ti.com/lit/ds/symlink/tps63031.pdf
 $ENDCMP
 #
 #End Doc Library
