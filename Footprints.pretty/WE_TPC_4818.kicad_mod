@@ -1,4 +1,4 @@
-(module WE_TPC_4818 (layer F.Cu) (tedit 5CB83BCA)
+(module WE_TPC_4818 (layer F.Cu) (tedit 5DABB5A3)
   (fp_text reference L (at 0 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -61,7 +61,7 @@
          (xy 0.95 0.55) (xy 0.95 1.4) (xy 0.75 0.9) (xy 0.15 0.55)) (width 0.05))
       (gr_line (start -0.95 1.4) (end -0.95 1.45) (width 0.12))
     ))
-  (model "/home/stmaxted/Documents/KiCAD/Maxted Libs - KiCAD/3D Models/STEP-WE-TPC-4818-rev1.stp"
+  (model "${MAXTED_LIBS}/3D Models/STEP-WE-TPC-4818-rev1.stp"
     (offset (xyz 0 0 1.75))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

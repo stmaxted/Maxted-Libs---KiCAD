@@ -1,4 +1,4 @@
-(module Amphenol_54601 (layer F.Cu) (tedit 5CA42D65)
+(module Amphenol_54601 (layer F.Cu) (tedit 5DABB482)
   (descr "Amphenol RJ45 Connector")
   (tags "RJ45, Ethernet")
   (fp_text reference J* (at -0.635 -2.56) (layer F.SilkS)
@@ -33,7 +33,7 @@
   (pad 3 thru_hole circle (at -1.905 -5.1) (size 1.5 1.5) (drill 0.76) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 4.445 -7.64) (size 1.5 1.5) (drill 0.76) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 1.905 -7.64) (size 1.5 1.5) (drill 0.76) (layers *.Cu *.Mask))
-  (model "/home/stmaxted/Documents/KiCAD/Maxted Libs - KiCAD/3D Models/Amphenol_54601.stp"
+  (model "${MAXTED_LIBS}/3D Models/Amphenol_54601.stp"
     (offset (xyz 0 -9.15 11.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 180))

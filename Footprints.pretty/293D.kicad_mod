@@ -1,4 +1,4 @@
-(module 293D (layer F.Cu) (tedit 5CA42989)
+(module 293D (layer F.Cu) (tedit 5DABB44D)
   (fp_text reference C4 (at 0 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -17,7 +17,7 @@
   (fp_line (start -4.1 -2.3) (end 4.1 -2.3) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -3 0) (size 2 2.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3 0) (size 2 2.5) (layers F.Cu F.Paste F.Mask))
-  (model "/home/stmaxted/Documents/KiCAD/Maxted Libs - KiCAD/3D Models/293D E-CASE.stp"
+  (model "${MAXTED_LIBS}/3D Models/293D E-CASE.stp"
     (offset (xyz -3.5 -3.75 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

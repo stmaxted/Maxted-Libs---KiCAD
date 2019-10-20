@@ -1,4 +1,4 @@
-(module CAM-M8 (layer F.Cu) (tedit 5D9C2180)
+(module CAM-M8 (layer F.Cu) (tedit 5DABB489)
   (descr "UBLOX CAM M8 GPS")
   (tags "GPS, UBLOX")
   (fp_text reference U (at 0 0) (layer F.SilkS)

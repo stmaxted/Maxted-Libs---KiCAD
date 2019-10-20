@@ -1,4 +1,4 @@
-(module Coin_Cell_Holder (layer F.Cu) (tedit 5CB83B82)
+(module Coin_Cell_Holder (layer F.Cu) (tedit 5DABB4B5)
   (descr "Keystone CR2032 Battery Holder")
   (tags "Battery, CR2032")
   (fp_text reference BT (at 0.1 -3.5) (layer F.SilkS)
@@ -14,12 +14,12 @@
   (pad 2 smd rect (at 0 0) (size 10 10) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 11.62 0.05) (size 1.27 5.2) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -11.62 0) (size 1.27 5.2) (layers F.Cu F.Paste F.Mask))
-  (model "/home/stmaxted/Documents/KiCAD/Maxted Libs - KiCAD/3D Models/keystone-PN3034.STEP"
+  (model "${MAXTED_LIBS}/3D Models/keystone-PN3034.STEP"
     (offset (xyz 0 -7.4 3.75))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
-  (model "/home/stmaxted/Documents/KiCAD/Maxted Libs - KiCAD/3D Models/Battery CR2032.stp"
+  (model "${MAXTED_LIBS}/3D Models/Battery CR2032.stp"
     (offset (xyz 0 0 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
