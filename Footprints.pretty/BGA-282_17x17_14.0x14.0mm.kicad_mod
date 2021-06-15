@@ -320,7 +320,7 @@
   (pad "U15" smd circle (at 4.8 6.4) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c4b52331-12c2-4569-985c-9be30df8e83e))
   (pad "U16" smd circle (at 5.6 6.4) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 621e6a76-a0eb-4c77-9f49-e18d10b3dca1))
   (pad "U17" smd circle (at 6.4 6.4) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d3a926f8-eb5f-4da7-ad68-41cc604a3a41))
-  (model "/usr/share/kicad/3dmodels/Package_BGA.3dshapes/TFBGA-265_14x14mm_Layout17x17_P0.8mm.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/TFBGA-265_14x14mm_Layout17x17_P0.8mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

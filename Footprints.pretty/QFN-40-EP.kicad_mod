@@ -70,7 +70,7 @@
          (xy -2.1336 2.1336) (xy 2.1844 2.1336) (xy 2.1844 -2.1844) (xy -1.8034 -2.1844) (xy -2.1336 -1.7526)
 ) (width 0.15))
     ))
-  (model ${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

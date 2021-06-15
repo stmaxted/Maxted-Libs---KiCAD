@@ -177,7 +177,7 @@
   (pad EPAD thru_hole circle (at 1.4 1.4) (size 1.4 1.4) (drill 1) (layers *.Cu *.Mask))
   (pad EPAD thru_hole circle (at 0 1.4) (size 1.4 1.4) (drill 1) (layers *.Cu *.Mask))
   (pad EPAD thru_hole circle (at -1.4 1.4) (size 1.4 1.4) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Package_QFP.3dshapes/LQFP-144_20x20mm_P0.5mm.step
+  (model ${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/LQFP-144_20x20mm_P0.5mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
