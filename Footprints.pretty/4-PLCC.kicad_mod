@@ -1,5 +1,5 @@
-(footprint "4-PLCC" (version 20210228) (generator pcbnew) (layer "F.Cu")
-  (tedit 60472C46)
+(footprint "4-PLCC" (version 20210925) (generator pcbnew) (layer "F.Cu")
+  (tedit 616B7164)
   (fp_text reference "REF**" (at 0 -2.3 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 133cc57c-10ec-463b-8def-f19d95e93453)
@@ -13,9 +13,11 @@
     (tstamp 1d1b4ee1-37b8-427b-a573-595618ac3405)
   )
   (fp_rect (start -1.6 -1.4) (end 1.9 1.4) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 965905e8-d8ea-4925-9b33-71185f4b42bb))
-  (fp_poly (pts (xy -2.3 -0.8)
-    (xy -3.1 -0.4)
-    (xy -3.1 -1.2)) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 0a6d8fe4-54f1-4534-9b58-89099cdafbf6))
+  (fp_poly (pts
+      (xy -2.3 -0.8)
+      (xy -3.1 -0.4)
+      (xy -3.1 -1.2)
+    ) (layer "F.SilkS") (width 0.1) (fill solid) (tstamp 0a6d8fe4-54f1-4534-9b58-89099cdafbf6))
   (fp_rect (start -2.3 -1.4) (end 2.3 1.4) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 2d7025f6-b097-432f-9d7f-589f363d4695))
   (fp_line (start -1.6 1.4) (end -1.6 -0.9) (layer "F.Fab") (width 0.1) (tstamp 06b22f87-d3ad-4e53-b162-84a428f48a9d))
   (fp_line (start 1.9 1.4) (end -1.6 1.4) (layer "F.Fab") (width 0.1) (tstamp 2ef391ae-cf7e-4778-b298-5df9200b6834))
@@ -26,7 +28,7 @@
   (pad "2" smd rect (at 1.5 -0.8) (size 1.4 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 234c30ac-fa64-43b6-bb81-d559c925594f))
   (pad "3" smd rect (at 1.5 0.8) (size 1.4 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 71d4da5e-cbc3-4017-89fa-81c7e93b2619))
   (pad "4" smd rect (at -1.5 0.8) (size 1.4 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9cdf2fe2-9c6c-492c-a8b2-f530008d0db7))
-  (model "/home/stmaxted/Documents/KiCAD/Maxted-Libs---KiCAD/3D Models/4-PLCC.wrl"
+  (model "${MAXTED_KICAD_LIBRARY}/3D Models/4-PLCC.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

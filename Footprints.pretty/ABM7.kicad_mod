@@ -1,5 +1,5 @@
-(footprint "ABM7" (version 20210606) (generator pcbnew) (layer "F.Cu")
-  (tedit 60D80C41)
+(footprint "ABM7" (version 20210925) (generator pcbnew) (layer "F.Cu")
+  (tedit 616B709C)
   (fp_text reference "REF**" (at 0 -2.8 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 0d6d2cdb-3151-4b1e-8bf5-1d2495020a6b)
@@ -20,7 +20,7 @@
   (fp_line (start -3 1.8) (end -3 -1.8) (layer "F.Fab") (width 0.1) (tstamp dcb125ae-2e6b-4acb-96f9-8200bf3b8b97))
   (pad "1" smd roundrect (at -2.15 0) (size 1.9 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 54b65042-166e-47a6-b3b7-91ce0d373425))
   (pad "2" smd roundrect (at 2.15 0) (size 1.9 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 20e2c391-28e7-4f92-8048-d93a71499a0c))
-  (model "/home/stmaxted/repos/Maxted-Libs---KiCAD/3D Models/ABM7.step"
+  (model "${MAXTED_KICAD_LIBRARY}/3D Models/ABM7.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

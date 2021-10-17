@@ -1,5 +1,5 @@
-(footprint "BGA-282_17x17_14.0x14.0mm" (version 20210126) (generator pcbnew) (layer "F.Cu")
-  (tedit 6027504B)
+(footprint "BGA-282_17x17_14.0x14.0mm" (version 20210925) (generator pcbnew) (layer "F.Cu")
+  (tedit 616B7159)
   (descr "282 Ball BGA ")
   (tags "BGA 282 ")
   (attr through_hole)
